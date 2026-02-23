@@ -477,6 +477,3 @@ A systematic approach to revising all solved LeetCode problems organized by patt
 </p>
 
 ---
-
-**Last Updated:** February 9, 2026
-**Version:** 1.0
