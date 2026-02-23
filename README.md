@@ -38,18 +38,17 @@ A systematic approach to revising all solved LeetCode problems organized by patt
 
 ## 📊 Progress Dashboard
 
-| Category | Total | Revised | Pending | Progress |
-|----------|-------|---------|---------|----------|
-| Arrays | 48 | 0 | 48 | ░░░░░░░░░░ 0% |
-| Strings | 22 | 0 | 22 | ░░░░░░░░░░ 0% |
-| Hash Table | 10 | 0 | 10 | ░░░░░░░░░░ 0% |
-| Two Pointers | 15 | 0 | 15 | ░░░░░░░░░░ 0% |
-| Sliding Window | 5 | 0 | 5 | ░░░░░░░░░░ 0% |
-| Binary Search | 7 | 0 | 7 | ░░░░░░░░░░ 0% |
-| DP | 5 | 0 | 5 | ░░░░░░░░░░ 0% |
-| Greedy | 5 | 0 | 5 | ░░░░░░░░░░ 0% |
-| Math | 3 | 0 | 3 | ░░░░░░░░░░ 0% |
-
+| Category       | Total | Revised | Pending |
+|----------------|--------|---------|---------|
+| Arrays         | 48     | 0       | 48      |
+| Strings        | 22     | 0       | 22      |
+| Hash Table     | 10     | 0       | 10      |
+| Two Pointers   | 15     | 0       | 15      |
+| Sliding Window | 5      | 0       | 5       |
+| Binary Search  | 7      | 0       | 7       |
+| DP             | 5      | 0       | 5       |
+| Greedy         | 5      | 0       | 5       |
+| Math           | 3      | 0       | 3       |
 ---
 
 ## 🧩 Problems by Pattern
