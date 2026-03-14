@@ -453,7 +453,7 @@ A systematic approach to revising all solved LeetCode problems organized by patt
 ## 🔗 Quick Links
 
 - [Main DSA Repo](https://github.com/Coddiction-101/DAILY-DSA-CPP)
-- [LeetCode Profile](https://leetcode.com/your-profile)
+
 - [Pomodoro Timer](https://www.nodi.so/widget/embed/public/pomodoro)
 
 ---
